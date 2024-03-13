@@ -24,7 +24,33 @@ Some of the key features of Seaborn include:
 
 Overall, Seaborn is a valuable tool for anyone working with data in Python, as it allows for the creation of publication-quality visualizations with relatively little effort.   
 
+**Visualization Techniques**   
+---
 
+The project covers various visualization techniques, including:   
+
+- lmplot
+- boxplot
+- boxenplot
+- lineplot
+- scatterplot
+- displot
+- relplot
+- catplot
+- stripplot
+- histplot
+- jointplot
+- jointgrid
+- violinplot
+- facetgrid
+- kdeplot
+- pairgrid
+- pairplot
+- barplot
+- residplot
+- swarmplot
+- clustermap
+- heatmap
 
 
 
